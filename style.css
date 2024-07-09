@@ -1,0 +1,25 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+body{
+    display: flex;
+    justify-content: center;
+}
+button,input{
+    padding: 10px;
+border: none;
+margin: 0px;
+}
+.search-box{
+    margin-top: 40vh;
+    display: flex;
+    padding: 10px;
+    background-color: gainsboro;
+    width: fit-content;
+}
+
+button,i{
+    background-color: rgb(163, 170, 163);
+}
